@@ -1,7 +1,7 @@
 # jpa03-rsssrj
 
 ```
-Running at: <https://jpa03-rsssrj.dokku-12.cs.ucsb.edu>
+https://jpa03-rsssrj.dokku-12.cs.ucsb.edu
 ```
 
 # Configuring GitHub Pages for the documentation
