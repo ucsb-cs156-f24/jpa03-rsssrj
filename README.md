@@ -1,9 +1,8 @@
 # jpa03-rsssrj
 
 ```
-https://jpa03-rsssrj.dokku-12.cs.ucsb.edu
+[`https://jpa03-rsssrj.dokku-12.cs.ucsb.edu`]https://jpa03-rsssrj.dokku-12.cs.ucsb.edu
 ```
-
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
